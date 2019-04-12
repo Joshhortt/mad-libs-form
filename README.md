@@ -9,8 +9,10 @@ _By **Josh Hortt**_
 
 _Mad Lib itself is a phrasal template word game where one player prompts the words to the other_.<br/>
 _to fill in the blank spaces in the sentence or the text._.<br/>
-_The Mad Lib **"Form"** works using the same principle – user is asked to fill in the blanks, in a narrative form.
-
+_The Mad Lib **"Form"** works using the same principle, the user is asked to fill in the blanks, in a narrative form_,<br/>
+_at the end the user after clicking the button is able to see his/her story in text format_.<br/>
+_And that’s it! The form doesn’t take very long to create. Further development will be added.<br/>
+_Please give it a try and enjoy making your own Mad Libs form!
 
 ## Setup/Installation Requirements
 
