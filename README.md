@@ -16,7 +16,7 @@ _Please give it a try and enjoy making your own Mad Libs form_!
 
 ## Setup/Installation Requirements
 
-_Contribute to Cypher Algorithm by cloning this repository_.
+_Contribute to Mad Libs Form by cloning this repository_.
 
 ## Contribute
 
@@ -32,7 +32,7 @@ _If you have any issues or have questions, ideas, concerns, please contact:_ jos
 _**HTML5** - Hyper Text Markup Language_<br/>
 _**CSS3** - Cascading Style Sheets_<br/>
 _**VANILLA JAVASCRIPT** - Javascript_<br/>
-_**BOOTSTRAP4** - Bootstrap_
+_**BOOTSTRAP4** - Bootstrap_<br/>
 _**JQUERY3.1.1** - JQuery_
 
 
